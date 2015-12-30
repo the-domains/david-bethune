@@ -1,7 +1,7 @@
 name: David Bethune
 favicon: null
-layout_spectrum: 0.0955134080722928
-typography_spectrum: 0.38888384168967605
+layout_spectrum: 0.20629
+typography_spectrum: 0.91386
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8525130739435554
-  lightness: 0.9970614369958639
-  saturation: 0.4246916596312076
-  rhythmicContrast: 0.5034678964875638
+    - '#ffffff'
+    - '#008ffe'
+    - '#fe0039'
+    - '#fec700'
+    - '#120806'
+  brandStrength: 0.1875
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []

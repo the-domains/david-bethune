@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Bethune]]></title>
+        <description><![CDATA[David Bethune]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 23:56:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2052af2-3926-49ec-a3f2-bb6fc624ddf5.jpg">]]></description>
+            <link>undefinedd95a51c5-4fb0-466a-a9f2-1376e16f4848/index.html</link>
+            <guid isPermaLink="false">d95a51c5-4fb0-466a-a9f2-1376e16f4848</guid>
+            <pubDate>Wed, 30 Dec 2015 23:56:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
